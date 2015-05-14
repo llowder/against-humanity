@@ -1522,5 +1522,29 @@
     {"id":1510,"cardType":"A","text":"Being nine years old.","numAnswers":0,"expansion":"CAHe5"},
     {"id":1511,"cardType":"A","text":"The passage of time.","numAnswers":0,"expansion":"CAHe5"},
     {"id":1512,"cardType":"A","text":"Being paralyzed from the neck down.","numAnswers":0,"expansion":"CAHe5"},
-    {"id":1513,"cardType":"A","text":"","numAnswers":0,"expansion":"CAHe5"}
+    {"id":1513,"cardType":"Q","text":"You can't wait forever. It's time to talk to your doctor about _.","numAnswers":1,"expansion":"CAHreject"}
+    {"id":1514,"cardType":"Q","text":"The Westboro Baptist Church is now picketing soldiers' funerals with signs that read 'GOD HATES _!'","numAnswers":1,"expansion":"CAHreject"}
+    {"id":1515,"cardType":"Q","text":"What are two cards in your hand that you want to get rid of?","numAnswers":2,"expansion":"CAHreject"}
+    {"id":1516,"cardType":"Q","text":"The elders of the Ibo tribe of Nigeria recommend _ as a cure for impotence.","numAnswers":1,"expansion":"CAHreject"}
+    {"id":1517,"cardType":"Q","text":"My name is Inigo Montoya. You killed my father. Prepare for _.","numAnswers":1,"expansion":"CAHreject"}
+    {"id":1518,"cardType":"Q","text":"From WBEZ Chicago, it's This American Lide. Today on our program, _. Stay with us.","numAnswers":1,"expansion":"CAHreject"}
+    {"id":1519,"cardType":"Q","text":"What do you see?","numAnswers":1,"expansion":"CAHreject"}
+    {"id":1520,"cardType":"Q","text":"Sir, we found you passed out naked on the side of the road. What's the last thing you remember?","numAnswers":1,"expansion":"CAHreject"}
+    {"id":1521,"cardType":"A","text":"My dick in your mouth.","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1522,"cardType":"A","text":"Corn.","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1523,"cardType":"A","text":"Carribbean Jesus.","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1524,"cardType":"A","text":"Super yoga.","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1525,"cardType":"A","text":"Ladles.","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1526,"cardType":"A","text":"Ejaculating a pound of tinsel.","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1527,"cardType":"A","text":"A heart that is two sizes too small and that therefore canot pump an adequate amount of blood.","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1528,"cardType":"A","text":"The John D. and Catherine T. MacArthur Foundation.","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1529,"cardType":"A","text":"Dividing by zero","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1530,"cardType":"A","text":"Playing an ocarina to summon Ultra-Congress from the sea.","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1531,"cardType":"A","text":"Asshole pomegranates that are hard to eat.","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1532,"cardType":"A","text":"Becoming so rish that you shed your body and turn to vapor.","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1533,"cardType":"A","text":"Faking a jellyfish sting so someone will pee on you.","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1534,"cardType":"A","text":"A sexy naked interactive theater thing.","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1535,"cardType":"A","text":"A giant squid in a wedding gown.","numAnswers":0,"expansion":"CAHreject"}
+    {"id":1536,"cardType":"A","text":"Crawling into a vagina.","numAnswers":0,"expansion":"CAHreject"}
+
 ]
